@@ -9,9 +9,9 @@ A Machine Learning web application that predicts whether a given text or review 
 
 👉 **Try the app here:**
 
-https://your-app-name.streamlit.app
+https://sentimentdataanalysis-jckx6rge3ifntptul4xxkd.streamlit.app/
 
-*(Replace this link with your Streamlit app URL after deployment.)*
+
 
 ---
 
